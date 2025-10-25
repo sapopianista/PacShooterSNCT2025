@@ -54,8 +54,3 @@ Arthur de Morais Marques, Daniel Patrick de Morais, Kauan Edson Leonel Lira e Vi
 📸 Demonstração
 
 <img width="1368" height="800" alt="image" src="https://github.com/user-attachments/assets/97938ee3-02c6-4687-976f-df8ba1e41109" />
-
-
-Implementar menu inicial e tela de game over
-
-Melhorar sprites e animações
